@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/storage-provisioner:v1.8.1
+FROM gcr.io/k8s-minikube/storage-provisioner:v1.8.1
 MAINTAINER yinwhm12
